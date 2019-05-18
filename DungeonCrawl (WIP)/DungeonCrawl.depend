@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1532375231 source:h:\brian\documents\personal c++\dungeoncrawl\src\dungeon.cpp
+	"Dungeon.h"
+	"array"
+	"iostream"
+	"fstream"
+	"conio.h"
+
+1532374730 h:\brian\documents\personal c++\dungeoncrawl\include\dungeon.h
+	"iostream"
+	<bits/stdc++.h>
+
+1531193648 source:h:\brian\documents\personal c++\dungeoncrawl\src\main.cpp
+	"MainGame.h"
+
+1531243782 source:h:\brian\documents\personal c++\dungeoncrawl\src\character.cpp
+	"Character.h"
+
+1531243659 h:\brian\documents\personal c++\dungeoncrawl\include\character.h
+	"string"
+	"iostream"
+
+1532373634 h:\brian\documents\personal c++\dungeoncrawl\include\maingame.h
+	"Dungeon.h"
+	"Character.h"
+	"iostream"
+	"string"
+	"array"
+
+1532374576 source:h:\brian\documents\personal c++\dungeoncrawl\src\maingame.cpp
+	"MainGame.h"
+	"Character.h"
+	"Dungeon.h"
+	"windows.h"
+	"iostream"
+	"string"
+

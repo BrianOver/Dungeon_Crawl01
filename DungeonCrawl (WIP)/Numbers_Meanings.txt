@@ -1,0 +1,4 @@
+0 = Pathway
+1 = Wall
+2 = Room enterance
+3 = Player
